@@ -1,4 +1,4 @@
-bubbl
+Bubbl Landing Page
 =====
 
-bubbl main repo
+This is the code that is currently deployed at the website: http://www.bubbl.me
