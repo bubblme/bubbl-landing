@@ -54,8 +54,8 @@ aside[id="{slidr-id}-control"] .slidr-control:hover {
   opacity: .5; }
 
 #main_container {
-  min-width: 550px;
-  width: 550px;
+  min-width: 500px;
+  width: 500px;
   height: auto;
   z-index: -9999999;
   margin-top: 100px;
@@ -291,10 +291,6 @@ ul.username-error-list {
   font-size: .8em;
   color: #00ffbb;
   text-decoration: none; }
-#mobile_header_content a:visited {
-  font-size: .8em;
-  color: #00ffbb;
-  text-decoration: none; }
 #mobile_header_content #blog_link {
   padding-right: 10px;
   font-size: .8em; }
@@ -303,10 +299,10 @@ ul.username-error-list {
   font-size: .8em; }
 
 #mobile_main_container {
-  width: 90%;
+  width: 74%;
   height: auto;
   z-index: -999;
-  margin-top: 40px;
+  margin-top: 100px;
   display: block;
   padding-left: 10%;
   border-radius: 10px;
@@ -442,7 +438,7 @@ ul.username-error-list {
 @media (min-height: 1281px) {
   /* some CSS for small resolution */
   .background_video {
-    height: 1500px;
+    height: 1400px;
     right: 0px; } }
 @media (min-height: 1000px) and (max-height: 1280px) {
   /* some CSS for small resolution */
@@ -653,3 +649,6 @@ section button {
 
   .overlay ul li {
     min-height: 34px; } }
+.demo_video_div {
+  margin-left: auto;
+  margin-right: auto; }
