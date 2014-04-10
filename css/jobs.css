@@ -9,6 +9,12 @@
     src: url('../fonts/Avenir-Black.woff');
 }
 
+@font-face
+{
+    font-family: 'avenir';
+    src: url('../fonts/Avenir-Light.woff');
+}
+
 body{
     font-family: 'avenirBook';
 }
