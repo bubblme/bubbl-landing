@@ -1,0 +1,14 @@
+@font-face
+{
+    font-family: 'avenirBook';
+    src: url('../fonts/Avenir-Book.woff');
+}
+@font-face
+{
+    font-family: 'avenirBlack';
+    src: url('../fonts/Avenir-Black.woff');
+}
+
+body{
+    font-family: 'avenirBook';
+}
